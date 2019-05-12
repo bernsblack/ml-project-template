@@ -1,0 +1,5 @@
+./data
+*.csv
+*.mp4
+*.gif
+*.npy
